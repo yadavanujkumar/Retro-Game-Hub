@@ -1,0 +1,5 @@
+{
+  "name": "Retro Game Hub",
+  "description": "An online retro gaming platform that showcases classic video games. It uses AI to generate nostalgic descriptions and fun facts for each title, creating an immersive trip down memory lane.",
+  "requestFramePermissions": []
+}
